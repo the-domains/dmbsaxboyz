@@ -1,6 +1,6 @@
 name: dmbsaxboyz
 favicon: null
-layout_spectrum: 0.49959562299773097
+layout_spectrum: 1
 typography_spectrum: 0.1820746350567788
 title: Testing Grounds
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.06550618843175471
-  lightness: 0.041576185496523976
-  saturation: 0.5344420452602208
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.8170303022488952
 purpose: []
